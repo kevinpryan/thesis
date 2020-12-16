@@ -12,4 +12,5 @@ investigated. SLIDINGWINDOW:4:15 - implements a sliding window approach, startin
 clipping the read once average quality withing the window falls below a threshold - window size 4
 required quality 15. MINLEN removes reads that fall below the specified minimum length, in this
 case 36.
-
+It also contains a markdown file, which is my submission for assignment 6
+of MA5114.
