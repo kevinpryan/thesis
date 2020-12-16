@@ -1,3 +1,4 @@
+# just adding this comment to practise downloading a clone, commiting it to github and pulling the new version down from github again
 import os
 # set up directory variables
 seq_dir = 'test_dataset'
